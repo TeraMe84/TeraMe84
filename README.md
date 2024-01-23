@@ -1,0 +1,5 @@
+-👋 Hi, I’m @TeraMe84
+-👀 I love creating and optimizing, so those are my focus areas. I'm interested in various programming languages, and outside of the computer, I'm into renovation, family, animals, and much more.
+-🌱 Currently, I'm trying to learn Python, but I'm also exploring JSON and JavaScript.
+-💞️ I'm currently building a trading platform for personal use, but I'm passionate about projects that truly give something back in the end.
+-📫 You can reach me on GitHub.
